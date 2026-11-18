@@ -2,7 +2,7 @@
   "name": "OpticalPersistence",
   "description": "Get half of the Optical Attraction damage resistance persistently if its duration is longer than its cooldown.",
   "version_number": "1.4.0",
-  "website_url": "",
+  "website_url": "https://github.com/DBRSoup/OpticalPersistence",
   "dependencies": [
     "BepInEx-BepInExPack_Mycopunk-5.4.2403"
   ]
